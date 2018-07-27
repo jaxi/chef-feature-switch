@@ -1,0 +1,20 @@
+{
+  "id": "complex_role_condition",
+  "roles": {
+    "cond": "AND",
+    "target": [
+      "builder",
+      {
+        "cond": "NOT",
+        "target": {
+          "cond": "OR",
+          "target": ["banker", "chef"]
+        }
+      },
+      {
+        "cond": "OR",
+        "target": ["janitor", "rockstar"]
+      }
+    ]
+  }
+}

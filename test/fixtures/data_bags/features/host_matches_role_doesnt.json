@@ -1,0 +1,10 @@
+{
+  "id": "host_matches_role_doesnt",
+  "hosts":[
+    "www.example.com",
+    "*.vagrantup.com"
+  ],
+  "roles": [
+    "rockstar"
+  ]
+}

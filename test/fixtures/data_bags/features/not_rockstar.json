@@ -1,0 +1,7 @@
+{
+  "id": "not_rockstar",
+  "roles": {
+    "cond": "NOT",
+    "target": "rockstar"
+  }
+}

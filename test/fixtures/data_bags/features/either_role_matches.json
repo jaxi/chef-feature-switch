@@ -1,0 +1,10 @@
+{
+  "id": "either_role_matches",
+  "roles": {
+    "cond": "OR",
+    "target": [
+      "janitor",
+      "rockstar"
+    ]
+  }
+}

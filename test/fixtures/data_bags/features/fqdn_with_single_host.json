@@ -1,0 +1,6 @@
+{
+  "id": "fqdn_with_single_host",
+  "hosts":[
+    "fqdn-centos-7.vagrantup.com"
+  ]
+}

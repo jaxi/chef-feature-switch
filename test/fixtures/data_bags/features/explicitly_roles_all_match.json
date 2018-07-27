@@ -1,0 +1,10 @@
+{
+  "id": "explicitly_roles_all_match",
+  "roles": {
+    "cond": "AND",
+    "target": [
+      "janitor",
+      "builder"
+    ]
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "id": "fqdn_with_wildcard",
+  "hosts":[
+    "www.example.com",
+    "*.vagrantup.com"
+  ]
+}

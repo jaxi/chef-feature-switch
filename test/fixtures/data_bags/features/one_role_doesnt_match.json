@@ -1,0 +1,8 @@
+{
+  "id": "single_role",
+  "roles":[
+    "janitor",
+    "builder",
+    "rockstar"
+  ]
+}

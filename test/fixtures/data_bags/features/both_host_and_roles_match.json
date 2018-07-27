@@ -1,0 +1,11 @@
+{
+  "id": "both_host_and_roles_match",
+  "hosts":[
+    "www.example.com",
+    "*.vagrantup.com"
+  ],
+  "roles": [
+    "janitor",
+    "builder"
+  ]
+}

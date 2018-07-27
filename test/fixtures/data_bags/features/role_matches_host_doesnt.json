@@ -1,0 +1,9 @@
+{
+  "id": "role_matches_host_doesnt",
+  "hosts":[
+    "www.example.com"
+  ],
+  "roles": [
+    "janitor"
+  ]
+}

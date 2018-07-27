@@ -1,0 +1,13 @@
+{
+  "id": "complex_role_condition_2",
+  "roles": {
+    "cond": "NOT",
+    "target": {
+      "cond": "NOT",
+      "target": {
+        "cond": "OR",
+        "target": ["janitor", "builder"]
+      }
+    }
+  }
+}
